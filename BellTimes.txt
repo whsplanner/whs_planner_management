@@ -1,24 +1,27 @@
 1
-13
+30
 2017
 10
+
+----Jan 30, 17-----
 Block 1: 
 Block 2: 
-Block 3: 
-1st Lunch: 
-2nd Lunch: 
-3rd Lunch: 
-Block 5: 
+Advisory:
+Whole School Movie:
+Lunches (Block 3): 
+1st Lunch: 11:25-11:55
+2nd Lunch: 12:00-12:30
+Block 4: 
+Block 5:
 Block 6:
-----------
-Have a 
-7:30-8:26
-8:31-9:28
-9:38-10:35
-10:40-11:10
-11:10-11:40
-11:41-12:11
-12:16-1:13
-1:18-2:15
------------
-nice day!
+
+7:30-8:00
+8:05-8:35
+8:40-8:45
+8:50-11:20
+ 
+(Language, Science, History)
+(English, Math, Fine Arts, Wellness)
+12:35-1:05
+1:10-1:40
+1:45-2:15
